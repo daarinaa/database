@@ -1,0 +1,7 @@
+D:\University\3d_year\DataBase_Web-Design\database\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\University\3d_year\DataBase_Web-Design\database\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\University\3d_year\DataBase_Web-Design\database\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\University\3d_year\DataBase_Web-Design\database\ConsoleApp\ConsoleApp\obj\Debug\kr_1_1.csproj.AssemblyReference.cache
+D:\University\3d_year\DataBase_Web-Design\database\ConsoleApp\ConsoleApp\obj\Debug\kr_1_1.csproj.CoreCompileInputs.cache
+D:\University\3d_year\DataBase_Web-Design\database\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\University\3d_year\DataBase_Web-Design\database\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
