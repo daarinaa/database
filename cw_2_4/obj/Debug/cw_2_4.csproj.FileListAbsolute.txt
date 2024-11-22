@@ -1,0 +1,7 @@
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_2_4\bin\Debug\cw_2_4.exe.config
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_2_4\bin\Debug\cw_2_4.exe
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_2_4\bin\Debug\cw_2_4.pdb
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_2_4\obj\Debug\cw_2_4.csproj.AssemblyReference.cache
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_2_4\obj\Debug\cw_2_4.csproj.CoreCompileInputs.cache
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_2_4\obj\Debug\cw_2_4.exe
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_2_4\obj\Debug\cw_2_4.pdb
