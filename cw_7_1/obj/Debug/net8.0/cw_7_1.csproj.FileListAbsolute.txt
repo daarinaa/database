@@ -1,0 +1,14 @@
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\bin\Debug\net8.0\cw_7_1.exe
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\bin\Debug\net8.0\cw_7_1.deps.json
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\bin\Debug\net8.0\cw_7_1.runtimeconfig.json
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\bin\Debug\net8.0\cw_7_1.dll
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\bin\Debug\net8.0\cw_7_1.pdb
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\obj\Debug\net8.0\cw_7_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\obj\Debug\net8.0\cw_7_1.AssemblyInfoInputs.cache
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\obj\Debug\net8.0\cw_7_1.AssemblyInfo.cs
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\obj\Debug\net8.0\cw_7_1.csproj.CoreCompileInputs.cache
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\obj\Debug\net8.0\cw_7_1.dll
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\obj\Debug\net8.0\refint\cw_7_1.dll
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\obj\Debug\net8.0\cw_7_1.pdb
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\obj\Debug\net8.0\cw_7_1.genruntimeconfig.cache
+D:\University\3d_year\DataBase_Web-Design\database\hw\homewrk\cw_7_1\obj\Debug\net8.0\ref\cw_7_1.dll
